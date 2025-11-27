@@ -1,6 +1,6 @@
 # Hi, I'm Abdirahman Ahmed 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Maankakpp&style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile-Views-blue?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Maankakpp?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/Maankakpp?style=for-the-badge)
 
