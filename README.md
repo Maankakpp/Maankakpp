@@ -1,52 +1,108 @@
-# Hi, I'm Abdirahman Ahmed 👋
-
-![Profile Views](https://img.shields.io/badge/Profile-Views-blue?style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Maankakpp?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Maankakpp?style=for-the-badge)
-
-I'm a web developer and digital solutions creator based in Mogadishu. I build clean, fast websites and digital tools that support health programs, community engagement, and government initiatives in Somalia.
-
----
-
-## 🔧 Skills & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![SEO](https://img.shields.io/badge/SEO-000?style=for-the-badge&logo=google)
-
----
-
-## 📌 Featured Projects
-
-### **RCCE Annual Review Meeting Hub (2025)**
-Single-page interactive site with all documents, agenda, and the final draft of Somalia’s first RCCE Strategy (2025–2030).  
-*HTML / JS*
-
-### **World Patient Safety Day – Ministry of Health**
-Event website built with TypeScript and modern UI elements.  
-*TypeScript / HTML*
+<div align="center">
+ 
+  # 👋 Hi, I'm Abdirahman Ahmed!
+  ### Digital Marketing & SEO Expert | Full-Stack Developer | Professional Event Management & Coordination | Health & Tech Communications Strategiest.
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/abdirahmanahmedali" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    </a>
+    <a href="https://maankadigitalsolutions.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-maankadigitalsolutions.com-005f73?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio Website">
+    </a>
+    <a href="mailto:info@maankadigitalsolutions.com"> 
+      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+    </a>
+    <a href="https://twitter.com/maankakpp" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
+    </a>
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 About Me
 
-![Maankakpp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maankakpp&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maankakpp&layout=compact&theme=default&hide_border=true)
+I am a dedicated **Digital Solutions Creator** based in **Mogadishu, Somalia**, with a passion for driving impactful change through technology and strategic communication. My expertise spans both **full-stack web development** and **cutting-edge digital marketing**, allowing me to build comprehensive solutions from concept to launch.
+
+My unique focus lies in **public health initiatives** and **government projects**, where I leverage digital tools to enhance community engagement, streamline information dissemination, and strengthen health communication strategies across Somalia. I'm committed to creating accessible, high-performance digital experiences that make a real difference.
 
 ---
 
-## 📫 Contact
+## 🎨 My Expertise & Skills
 
-- **Twitter:** https://twitter.com/maankakpp  
-- **LinkedIn:** https://www.linkedin.com/in/abdirahmanahmedali/
-- **Instagram:** https://www.instagram.com/maanka_kpp
-- **Website:** maankadigitalsolutions.com  
+<p align="center">
+  <h4>🌐 Web Development & Tech Stack</h4>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <br><br>
+  
+  <h4>📈 Digital Marketing & SEO</h4>
+  <img src="https://img.shields.io/badge/SEO-Google%20Search-4285F4?style=for-the-badge&logo=google-search&logoColor=white" alt="SEO Badge"/>
+  <img src="https://img.shields.io/badge/Content%20Marketing-Strategy-FF5722?style=for-the-badge&logo=buffer&logoColor=white" alt="Content Marketing Badge"/>
+  <img src="https://img.shields.io/badge/Social%20Media%20Strategy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Social Media Badge"/>
+  <img src="https://img.shields.io/badge/Analytics-Data%20Driven-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics Badge"/>
+  <img src="https://img.shields.io/badge/Branding-Identity-8A2BE2?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Branding Badge"/>
+  <img src="https://img.shields.io/badge/Multi--Lingual%20Content-Translate-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="Multi-Lingual Content Badge"/>
+  <br><br>
 
-Always open to collaborating on digital health, community engagement, and web development projects in Somalia.
+<h4>📢 Professional Event Management & Coordination</h4>
+<img src="https://img.shields.io/badge/Event%20Planning-Logistics-A020F0?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Planning Badge"/>
+<img src="https://img.shields.io/badge/Project%20Coordination-Execution-0077B6?style=for-the-badge&logo=jira&logoColor=white" alt="Project Coordination Badge"/>
+<img src="https://img.shields.io/badge/Content%20Production-Multi--Lingual-blue?style=for-the-badge&logo=google-translate&logoColor=white" alt="Content Production Badge"/>
+<img src="https://img.shields.io/badge/Speaker%20Prep-Keynote%20Writing-D2691E?style=for-the-badge&logo=powerpoint&logoColor=white" alt="Speaker Prep Badge"/>
+<img src="https://img.shields.io/badge/Health%20Comms-Public%20Awareness-00BFFF?style=for-the-badge&logo=redhat&logoColor=white" alt="Health Communications Badge"/>
+<img src="https://img.shields.io/badge/Company%20Profiles-Strategy-563d7c?style=for-the-badge&logo=github&logoColor=white" alt="Company Profiles Badge"/>
+<img src="https://img.shields.io/badge/Technical%20Writing-Reports-grey?style=for-the-badge&logo=markdown&logoColor=white" alt="Technical Writing Badge"/>
 
+</p>
 
+---
+
+## 🚀 My Projects & Contributions
+
+Here are some of the key initiatives where I've blended development, marketing, and event coordination. Click to explore!
+
+| **Project Title** | **Description & Impact** | **Technologies** | **Live Link** |
+| :---------------- | :----------------------- | :--------------- | :------------ |
+| **RCCE Annual Review Hub (2025)** | Developed the website, **managed the event's social media content/posting (multi-lingual)**, and prepared **speaker bios, presentation samples, and event branding (logo)**. | `HTML`, `CSS`, `JavaScript`, `SEO`, `Branding` | [Visit Site](YOUR_RCCE_LIVE_LINK_HERE) |
+| **World Patient Safety Day** | Crafted the event website and **led content development for all digital channels**, ensuring consistent messaging for the Ministry of Health's public awareness campaign. | `TypeScript`, `HTML`, `CSS`, `React`, `Content Strategy` | [Visit Site](YOUR_PATIENT_SAFETY_LIVE_LINK_HERE) |
+| **Maanka Digital Solutions** | My agency's platform, dedicated to empowering Somali businesses and NGOs with bespoke digital marketing, SEO, and web development solutions. | `WordPress`, `SEO`, `Branding` | [Visit Site](https://maankadigitalsolutions.com) |
+| **Somalia MoH Dashboard** | Contributed to the development of a data visualization dashboard for the Ministry of Health to monitor key health indicators. | `React`, `Data Viz`, `API` | [Repo Link](YOUR_MOH_DASHBOARD_REPO_LINK_HERE) |
+
+<div align="center">
+  <br>
+  <p><b>Check out my pinned repositories for more\!</b></p>
+</div>
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maankakpp&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" alt="Abdirahman's GitHub Stats"/>
+  &nbsp; &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maankakpp&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maankakpp&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 📞 Let's Connect & Collaborate!
+
+I'm always eager to collaborate on meaningful projects, especially those focused on **digital transformation** and **public health** in Somalia. Feel free to reach out!
+
+<div align="center">
+  <p>📍 <i>Mogadishu, Somalia</i></p>
+  <img src="https://media.giphy.com/media/LmN8XcW0Yx6Tq/giphy.gif" alt="Coding GIF" width="100px"/>
+</div>
