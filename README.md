@@ -43,7 +43,8 @@ Event website built with TypeScript and modern UI elements.
 ## 📫 Contact
 
 - **Twitter:** https://twitter.com/maankakpp  
-- **LinkedIn:** https://www.linkedin.com/in/abdirahmanahme  
+- **LinkedIn:** https://www.linkedin.com/in/abdirahmanahmedali/
+- **Instagram:** https://www.instagram.com/maanka_kpp
 - **Website:** maankadigitalsolutions.com  
 
 Always open to collaborating on digital health, community engagement, and web development projects in Somalia.
