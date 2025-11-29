@@ -75,10 +75,10 @@ Here are some of the key initiatives where I've blended development, marketing, 
 
 | **Project Title** | **Description & Impact** | **Technologies** | **Live Link** |
 | :---------------- | :----------------------- | :--------------- | :------------ |
-| **RCCE Annual Review Hub (2025)** | Developed the website, **managed the event's social media content/posting (multi-lingual)**, and prepared **speaker bios, presentation samples, and event branding (logo)**. | `HTML`, `CSS`, `JavaScript`, `SEO`, `Branding` | [Visit Site](YOUR_RCCE_LIVE_LINK_HERE) |
-| **World Patient Safety Day** | Crafted the event website and **led content development for all digital channels**, ensuring consistent messaging for the Ministry of Health's public awareness campaign. | `TypeScript`, `HTML`, `CSS`, `React`, `Content Strategy` | [Visit Site](YOUR_PATIENT_SAFETY_LIVE_LINK_HERE) |
+| **RCCE Annual Review Hub (2025)** | Developed the website, **managed the event's social media content/posting (multi-lingual)**, and prepared **speaker bios, presentation samples, and event branding (logo)**. | `HTML`, `CSS`, `JavaScript`, `SEO`, `Branding` | [Visit Site](https://rcce.netlify.app/) |
+| **World Patient Safety Day** | Crafted the event website and **led content development for all digital channels**, ensuring consistent messaging for the Ministry of Health's public awareness campaign. | `TypeScript`, `HTML`, `CSS`, `React`, `Content Strategy` | [Visit Site](https://f-mo-h-world-patient-safety-day.vercel.app/) |
 | **Maanka Digital Solutions** | My agency's platform, dedicated to empowering Somali businesses and NGOs with bespoke digital marketing, SEO, and web development solutions. | `WordPress`, `SEO`, `Branding` | [Visit Site](https://maankadigitalsolutions.com) |
-| **Somalia MoH Dashboard** | Contributed to the development of a data visualization dashboard for the Ministry of Health to monitor key health indicators. | `React`, `Data Viz`, `API` | [Repo Link](YOUR_MOH_DASHBOARD_REPO_LINK_HERE) |
+| **Somalia MoH Dashboard** | Contributed to the development of a data visualization dashboard for the Ministry of Health to monitor key health indicators. | `React`, `Data Viz`, `API` | [Repo Link](moh.gov.so) |
 
 <div align="center">
   <br>
