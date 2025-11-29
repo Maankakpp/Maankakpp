@@ -23,9 +23,12 @@
 
 ## 🌟 About Me
 
-I am a dedicated **Digital Solutions Creator** based in **Mogadishu, Somalia**, with a passion for driving impactful change through technology and strategic communication. My expertise spans both **full-stack web development** and **cutting-edge digital marketing**, allowing me to build comprehensive solutions from concept to launch.
+I am a **Digital Marketing and SEO Expert, Full-Stack Developer, Event and Conference Management Professional, and Health and Tech Communications Strategist** based in **Mogadishu, Somalia**.
 
-My unique focus lies in **public health initiatives** and **government projects**, where I leverage digital tools to enhance community engagement, streamline information dissemination, and strengthen health communication strategies across Somalia. I'm committed to creating accessible, high-performance digital experiences that make a real difference.
+I work across **development, communication, and coordination** to help organizations build useful digital tools and share information more effectively. My experience includes **designing and building full-stack web solutions, managing digital marketing projects**, and **coordinating major events and conferences**. I also support **health and government programs with communication strategies** that enhance the way information reaches communities.
+
+Much of my work focuses on **public health in Somalia**, where digital solutions play an important role in engagement and access to information. My goal is to create **reliable, practical** results that help teams communicate clearly and deliver meaningful impact.
+
 
 ---
 
